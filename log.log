@@ -1,0 +1,236 @@
+commit a3965f74a8ae98bd792c5019196c6fc1853b5d18 (HEAD -> main, origin/main, origin/HEAD)
+Author: Anita <kayadaanita@gmail.com>
+Date:   Mon Dec 5 22:08:45 2022 -0600
+
+    Overall Real Estate stock Graph
+
+commit fde7c6cc965d53482f39846758fe012b335c8a73
+Author: Anita <kayadaanita@gmail.com>
+Date:   Mon Dec 5 21:58:20 2022 -0600
+
+    Overall Travel stock Graph
+
+commit 7f87d6182f7266c7f7994f70fced22d774f9909d
+Author: Anita <kayadaanita@gmail.com>
+Date:   Mon Dec 5 21:38:52 2022 -0600
+
+    reason for choosing the Graph
+
+commit db05f66c3a2372457776a0d4587cac005ab9b20e
+Author: Anita <kayadaanita@gmail.com>
+Date:   Mon Dec 5 21:35:44 2022 -0600
+
+    Overall gold market Throughout Time
+
+commit 41557649eb0856389de816fd1c72fcb6023b4704
+Author: Anita <kayadaanita@gmail.com>
+Date:   Mon Dec 5 15:16:52 2022 -0600
+
+    Overall stock Market of Canada Graph
+
+commit 2df68e17847cf4ad3fb4550baff0ad4bf2cd7cdb
+Author: Anita <kayadaanita@gmail.com>
+Date:   Mon Dec 5 15:15:51 2022 -0600
+
+    Overall stock Market of USA Graph
+
+commit d04e7877a62b5ca5c8acbefff97b42e686bf9264
+Author: Anita <kayadaanita@gmail.com>
+Date:   Mon Dec 5 15:14:53 2022 -0600
+
+    US - Canada Confirmed cases Ratio Graph
+
+commit 3b58329489f2705902cae9fbd4ac20a2c57cf285
+Author: Anita <kayadaanita@gmail.com>
+Date:   Mon Dec 5 15:13:54 2022 -0600
+
+    US Confirmed Cases Throughout Time Graph
+
+commit 7aa9a4b3120b7237606ba25774b4b792149ac625
+Author: Anita <kayadaanita@gmail.com>
+Date:   Mon Dec 5 15:12:42 2022 -0600
+
+    Canada Confirmed Cases Throughut time Graph
+
+commit 3e046e7bffdfd7f94437620738f0fb3377663090
+Author: Anita <kayadaanita@gmail.com>
+Date:   Mon Dec 5 15:11:44 2022 -0600
+
+    US - Canada Death Ratio Graph
+
+commit 3a1e8eb4e57cf17a426373b0118968a2d9d99d8c
+Author: Anita <kayadaanita@gmail.com>
+Date:   Mon Dec 5 15:04:34 2022 -0600
+
+    US - Canada Death Ratio
+
+commit 5c30eedfd5457fb4f4eb4efc167a54e140b2b29f
+Merge: 9448075 9ef313d
+Author: Anita <kayadaanita@gmail.com>
+Date:   Mon Dec 5 15:02:22 2022 -0600
+
+    Merge branch 'main' of https://github.com/AIDA-Saskatchewan-polytechnic/FInal_Project-by-YAM-Group
+
+commit 9448075d996c293ea407c3375d32ee183319f690
+Author: Anita <kayadaanita@gmail.com>
+Date:   Mon Dec 5 15:02:12 2022 -0600
+
+    US Death list Graph
+
+commit 9ef313d289a273f9360355339e5d2f1af7883ae7
+Merge: 9d8dc03 df6598e
+Author: patel63351 <patel63351@saskpolytech.ca>
+Date:   Mon Dec 5 14:59:49 2022 -0600
+
+    Merge branch 'main' of https://github.com/AIDA-Saskatchewan-polytechnic/FInal_Project-by-YAM-Group
+
+commit 9d8dc0301a2c39adceecf49993663de3d8ace110
+Author: patel63351 <patel63351@saskpolytech.ca>
+Date:   Mon Dec 5 14:59:43 2022 -0600
+
+    comment update
+
+commit df6598ec382ecf69188829f49b327eedb3229d3b
+Author: Anita <kayadaanita@gmail.com>
+Date:   Mon Dec 5 14:56:44 2022 -0600
+
+    Canada Death list Graph
+
+commit 2c713fb2100423d607e976e64708d4397552be57
+Author: patel63351 <patel63351@saskpolytech.ca>
+Date:   Mon Dec 5 14:44:21 2022 -0600
+
+    UserName Details
+
+commit 90a33ad997b09affe818d3a5843a7b271d24745b
+Author: patel63351 <patel63351@saskpolytech.ca>
+Date:   Mon Dec 5 14:23:30 2022 -0600
+
+    Final Merged Stocks on Date
+
+commit f51c5361f6bbc213966f14b33f3ad8e42bc4e642
+Author: patel63351 <patel63351@saskpolytech.ca>
+Date:   Mon Dec 5 14:19:20 2022 -0600
+
+    Merged Cases
+
+commit ff885b781e262bcfa387571e14fa84ccab848c10
+Author: patel63351 <patel63351@saskpolytech.ca>
+Date:   Mon Dec 5 14:17:18 2022 -0600
+
+    Final DataFrame
+
+commit 76d9e4180036eccba028988ef8bac154c5653aa2
+Author: patel63351 <patel63351@saskpolytech.ca>
+Date:   Mon Dec 5 14:16:04 2022 -0600
+
+    update
+
+commit 10ae10fd9fd8df7e4ff3a0ca3b58e0683f6f03b0
+Author: patel8095 <patel8095@saskpolytech.ca>
+Date:   Mon Dec 5 14:10:38 2022 -0600
+
+    change stock
+
+commit 7433b495c525a5d62e11383a7e3e1e872220d8af
+Author: patel8095 <patel8095@saskpolytech.ca>
+Date:   Mon Dec 5 13:53:52 2022 -0600
+
+    Change
+
+commit e23478f207a6f58f2c7677496501aa4adf8d0833
+Author: patel8095 <patel8095@saskpolytech.ca>
+Date:   Mon Dec 5 13:51:56 2022 -0600
+
+    Delete unnecessary
+
+commit 639cc51a564e7b0f22b1a85d77d3220ace6b2abf
+Author: patel8095 <patel8095@saskpolytech.ca>
+Date:   Mon Dec 5 13:50:54 2022 -0600
+
+    Drop Lat  and Long Columns
+
+commit 2f3b7bcbba2bf84e545e5c859b64b6c750ab9c51
+Author: patel8095 <patel8095@saskpolytech.ca>
+Date:   Mon Dec 5 13:34:06 2022 -0600
+
+    GroupBy
+
+commit 66d289ea8afb324b2712d8c1aa20097a95f4327e
+Author: patel8095 <patel8095@saskpolytech.ca>
+Date:   Mon Dec 5 13:29:28 2022 -0600
+
+    Merge
+
+commit 037dcfeb0d62c1e0d7a469eed1ba82792016347c
+Author: patel8095 <patel8095@saskpolytech.ca>
+Date:   Mon Dec 5 13:24:56 2022 -0600
+
+    comment for stick
+
+commit 42dabf3749b543b3ea445a5733fcb53d24172515
+Author: patel8095 <patel8095@saskpolytech.ca>
+Date:   Mon Dec 5 12:59:57 2022 -0600
+
+    Merge on Date
+
+commit 5a954c1e58c70210c3381d486f45a2594c8efb1d
+Author: patel8095 <patel8095@saskpolytech.ca>
+Date:   Mon Dec 5 12:36:06 2022 -0600
+
+    Alphavantage Key
+
+commit 5e5aa60c3c41a47d43714ee984e0a56e9bd936cb
+Author: patel63351 <patel63351@saskpolytech.ca>
+Date:   Mon Dec 5 12:26:36 2022 -0600
+
+    Global Level Cases
+
+commit 9bd482e1977d370e1a0717cf58ce9d59da5aac8b
+Author: patel63351 <patel63351@saskpolytech.ca>
+Date:   Mon Dec 5 12:21:08 2022 -0600
+
+    dataframe covid2019 cases
+
+commit f7d26d5bba36f1db46c829c9c4b9c249139f4051
+Author: patel63351 <patel63351@saskpolytech.ca>
+Date:   Mon Dec 5 12:17:31 2022 -0600
+
+    mm
+
+commit f34f86a04ef55783d9d1d753bcdca14462af1183
+Author: patel63351 <patel63351@saskpolytech.ca>
+Date:   Mon Dec 5 12:15:22 2022 -0600
+
+    init
+
+commit febcd02adfd76f4951688a52c968efd4c9396039
+Author: patel63351 <patel63351@saskpolytech.ca>
+Date:   Mon Dec 5 03:30:33 2022 -0600
+
+    m
+
+commit 4c889becbc84901513a4b1ac35a40f6dc61f862b
+Author: patel63351 <patel63351@saskpolytech.ca>
+Date:   Mon Dec 5 02:32:37 2022 -0600
+
+    initial import
+
+commit 1ce69f4c6a9b622e94d1b63f12f4c3a1000fec5c
+Author: patel63351 <patel63351@saskpolytech.ca>
+Date:   Mon Dec 5 02:25:59 2022 -0600
+
+    Final Project Folder
+
+commit 619dadfc6ec30c51b556fd7eafcb0501d0093a83
+Author: patel63351 <patel63351@saskpolytech.ca>
+Date:   Mon Dec 5 02:20:03 2022 -0600
+
+    Testing
+
+commit 852c78392cefdffea5a2e765e5f681174944f456
+Author: Anita Kayada <117126489+Anita-Kayada@users.noreply.github.com>
+Date:   Tue Nov 29 13:51:31 2022 -0600
+
+    Initial commit
+(END)
